@@ -1,3 +1,4 @@
+![logo](https://github.com/SiddharthGugale/SiddharthGugale/blob/main/github%20baner.jpg)
 <h1 align="center">Hi 👋, I'm Siddharth Gugale</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
